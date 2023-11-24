@@ -13,3 +13,4 @@ Its use module [JDS6600](https://pypi.org/project/jds6600/)
 * exp_connect.py - first script with simple connecting to predefined port
 * exp_getwaveform.py - print waveforms for channels
 * exp_getinfo.py - print all available info from channels
+* getinfo.py - print all available info from channels (improved version, use argparse module)
